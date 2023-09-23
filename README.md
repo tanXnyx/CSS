@@ -1,2 +1,2 @@
 # CSS 
-Learning cas
+Learning CSS
