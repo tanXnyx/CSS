@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>practice q</title>
+</head>
+<link rel="stylesheet" href="practice3.css">
+<body>
+    <div class="myld">
+        <p >
+            HI I AM TAN
+        </p>
+    </div>
+      <p> i like cs</p>
+</body>
+</html>
