@@ -13,7 +13,7 @@
     <button class="userbtn">Register</button>
     <hr />
     <label for="search">Search</label>
-    <input placeholder="search your friends" id="search" />
+    <input placeholder="search your friend" id="search" />
     <button id="searchbtn">Search</button>
   </body>
 </html>
